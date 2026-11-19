@@ -1,4 +1,4 @@
-# 竹中 佑希 / Yuki Takenaka
+# Yuki Takenaka
 
 東京を拠点に、[&Co.GROUP](https://www.andco.group/) でプロダクト担当／エンジニアとして働いています。
 フロントエンドからエッジ・クラウドまで、Web プロダクトづくりを幅広く手がけています。
