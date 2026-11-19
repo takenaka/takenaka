@@ -38,10 +38,6 @@
 | [othello-cui](https://github.com/takenaka/othello-cui) | TypeScript 製の、コマンドで遊べるオセロゲーム |
 | [fe-dojo](https://github.com/takenaka/fe-dojo) | 基本情報技術者試験（科目B）対策と応用情報技術者試験の準備用の問題集・回答 |
 
-## GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=takenaka&show_icons=true&hide_border=true)](https://github.com/takenaka)
-
 ## 連絡先
 
 - Portfolio: [takenaka.work](https://takenaka.work)
